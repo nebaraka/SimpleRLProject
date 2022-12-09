@@ -19,8 +19,19 @@ The first thing here to improve is to implement policy using CNN claffifier.
 
 ### Visualisation
 Here pygame framework used for visualisation. Along with field and agent it displays agent FOV, hp, age, urrent action and total # of invalid actions taken.
+
+![me](https://media.giphy.com/media/MhhSxqK8MFakkW4Syo/giphy.gif)
+
 Note colors meanings:
 1. purple - warning,
 2. yellow - 25 dmg,
 3. orange - 50 dmg,
 4. red - 75 dmg.
+
+User can take the following actions:
+1. ctrl+x - exit,
+2. ctrl+n - new simulation,
+3. ctrl+p - pause,
+4. ctrl+s - resume,
+5. plus - speed up,
+6. minus - slow down.
